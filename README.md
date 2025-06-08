@@ -62,7 +62,7 @@ The number of ANC visits is an important public health indicator linked to mater
 
 ## Key Findings
 
-- Factors such as *education level, **marital status, and **place of delivery* were significant predictors of ANC visit counts.
+- Factors such as **education level**, **marital status**, and **place of delivery** were significant predictors of ANC visit counts.
 - The Poisson model allowed for effective modeling of count data despite minor overdispersion.
 
 ---
