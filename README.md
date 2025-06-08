@@ -69,7 +69,7 @@ The number of ANC visits is an important public health indicator linked to mater
 
 ## Why Python?
 
-- Python was chosen for its *robust statistical libraries, flexibility in data manipulation, and ability to handle **large datasets efficiently*.
+- Python was chosen for its **robust statistical libraries**, **flexibility in data manipulation**, and ability to handle **large datasets efficiently**.
 - The use of *Jupyter Notebook* allowed for seamless integration of code, visualizations, and interpretation.
 
 ---
